@@ -1,10 +1,16 @@
-# itsonfire
-%%%%%%
+# TicTacToe
 
-This repository is a place where I can post projects I've worked on / am working on
+This is a simple 2-player game version of TicTacToe, which was the initial project in Udemy's Python Bootcamp Course:
+(https://www.udemy.com/course/python-from-zero-to-hero/)
 
-0th goal is to create a github repo and start using it
+**Description of the project:
 
-First goal is to post up a simple game
+Your assignment: Create a Tic Tac Toe game. You are free to use any IDE you like.
 
-%%%%%%
+Here are the requirements:
+
+2 players should be able to play the game (both sitting at the same computer)
+
+The board should be printed out every time a player makes a move
+
+You should be able to accept input of the player position and then place a symbol on the board
